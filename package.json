@@ -1,0 +1,22 @@
+{
+  "name": "@darkerlight/prettier-config",
+  "version": "1.0.0",
+  "main": "prettier.config.cjs",
+  "keywords": [
+    "config",
+    "prettier",
+    "reusable"
+  ],
+  "bugs": "https://github.com/ipanda-pia/prettier-config/issues",
+  "author": "ipanda-pia <lmh_fighting@outlook.com> (https://github.com/ipanda-pia)",
+  "license": "MIT",
+  "description": "prefer prettier config for myself",
+  "homepage": "https://github.com/ipanda-pia/prettier-config",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ipanda-pia/prettier-config.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
